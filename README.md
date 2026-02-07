@@ -3,7 +3,7 @@
 A dark-themed portfolio built with **React** (Vite). Sections: **Home**, **About Me**, **Projects**, **Contact**.
 
 ## Live Demo
-https://portfolio-8ylklbb47-stonegiant0512s-projects.vercel.app/
+https://portfolio-ryo-nine.vercel.app/
 
 ## Run locally
 
