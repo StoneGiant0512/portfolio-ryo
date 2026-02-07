@@ -1,7 +1,7 @@
 import { SiGmail, SiGithub, SiLinkedin } from 'react-icons/si'
 
 const CONTACT_LINKS = [
-  { href: 'mailto:ryoyamam5129@gmail.com', label: 'Email', Icon: SiGmail },
+  { href: 'mailto:ryoyamada5129@gmail.com', label: 'Email', Icon: SiGmail },
   { href: 'https://github.com/StoneGiant0512', label: 'GitHub', Icon: SiGithub, external: true },
   { href: 'https://www.linkedin.com/in/ryo-yamada-484a173a9', label: 'LinkedIn', Icon: SiLinkedin, external: true },
 ]
